@@ -1,0 +1,258 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;   
+}
+
+body {
+    font-size: 14px;
+}
+
+.intro {
+background: rgb(0, 89, 255);
+color:white;
+display: flex;
+height: 30px;
+padding-left: 500px;
+padding-top: 5px;
+}
+
+.vue {
+    width: 22px;
+}
+
+.heading {
+    font-weight: 900;
+    font-size: 20px;
+    color: rgb(36, 35, 35);
+}
+
+.vue .heading {
+    vertical-align: top;
+}
+
+.top-1,.top-2 {
+    display: inline-block;
+}
+
+.top-1 {
+margin-right: 30px;
+
+}
+
+.top-2 {
+    background: white;
+    color: rgb(0, 89, 255);
+    border-radius: 2px;
+    height: 20px;
+    margin-right: 540px;
+}
+
+.top-2 p {
+    font-size: 12px;
+    padding: 2px;
+}
+
+header .main-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 10px;
+    
+}
+
+.main-menu .second {
+    align-items: center;
+    align-items: center;
+}
+
+.main-menu ul {
+    display: flex;
+}
+
+.main-menu li {
+    list-style: none;
+}
+
+.main-menu .first {
+    margin-right: 40px;
+}
+
+.main-menu .first li {
+margin-right: 30px;
+}
+
+.main-menu .second li {
+    margin-right: 20px;
+}
+
+.second .yellow {
+    background: rgb(244, 195, 2);
+    border-radius: 3px;
+    padding: 5px 7px;
+    border: none;
+}
+
+.second .clear {
+    background: rgb(240, 236, 236);
+    border-radius:3px;
+    padding: 5px 7px ;
+}
+
+section {
+    margin-left:20px;
+    margin-top: 30px;
+}
+
+section .greenout {
+    border: 1.8px;
+    border-style: solid;
+    display: inline-block;
+    border-color: rgb(23, 184, 8);
+    border-radius: 5px;
+    color:rgb(21, 184, 8);
+    padding: 2px 8px ;
+}
+
+ .large {
+    margin-top: 10px;
+    font-size: 50px;
+    max-width: 520px;
+    font-weight: bolder;
+    color: rgb(36, 35, 35);
+}
+
+ .green {
+    color: rgb(21, 184, 8);
+}
+
+ .part-3 {
+    margin-top: 20px;
+    color: rgb(80, 74, 74);
+    font-size: 18px;
+}
+
+  .nav-menu {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+
+}
+
+.nav-menu .align {
+align-items: center;
+}
+
+ .nav-menu li {
+    list-style: none;
+    
+}
+
+.nav-menu ul {
+  display: flex;
+}
+
+.green-white {
+    background:rgb(21, 184, 8) ;
+    display: inline-block;
+    color: white;
+    padding: 5px 20px 3px 12px;
+    border-radius: 3px;
+}
+
+.after-logos {
+    margin-left: 20px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5px;
+}
+
+.page-2 .bold{
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(29, 8, 39);
+}
+
+.apple{
+    width: 25px;
+    margin-left: 100px;
+    
+    
+}
+
+.backmarket {
+    width: 80px;
+    color: rgb(0, 0, 0);
+    margin-left: 90px;
+}
+.roku {
+    width: 80px;
+    margin-left: 90px;
+} 
+
+.git-lab {
+    width: 70px;
+    margin-left: 90px;
+}
+.aboutyou {
+    width: 110px;
+    margin-left: 90px;
+}
+
+.nasa {
+    width: 80px;
+    margin-left: 90px;
+}
+
+.telefonica {
+    width: 70px;
+    margin-left: 100px;
+    margin-right: 90px;
+}
+
+.scisure {
+    width: 40px;
+    margin-right: 5px;
+}
+
+.scisure-1 {
+    display: flex;
+}
+
+.ned {
+    width: 10px;
+    margin-right: 2px;
+    border-radius: 6px;
+
+}
+
+.wrap-1 {
+max-width: 420px;
+background: rgb(247, 244, 244);
+padding: 10px;
+border: 1px;
+margin-top: 15px;
+border-radius: 6px;
+border-style:inset;
+}
+
+.wrap-1 .btn {
+    margin-top: 8px;
+    background: rgba(233, 229, 229, 0.829);
+    border:none;
+    padding: 4px 4px;
+    border-radius: 2px;
+}
+
+.wrap-1 h3 {
+    margin: 2px 0px;
+}
+
+.flex-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
