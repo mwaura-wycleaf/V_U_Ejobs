@@ -212,14 +212,6 @@ align-items: center;
     margin-right: 90px;
 }
 
-.scisure {
-    width: 40px;
-    margin-right: 5px;
-}
-
-.scisure-1 {
-    display: flex;
-}
 
 .ned {
     width: 10px;
@@ -228,31 +220,80 @@ align-items: center;
 
 }
 
-.wrap-1 {
-max-width: 420px;
-background: rgb(247, 244, 244);
-padding: 10px;
-border: 1px;
-margin-top: 15px;
-border-radius: 6px;
-border-style:inset;
-}
-
-.wrap-1 .btn {
-    margin-top: 8px;
-    background: rgba(233, 229, 229, 0.829);
-    border:none;
-    padding: 4px 4px;
-    border-radius: 2px;
-}
-
-.wrap-1 h3 {
-    margin: 2px 0px;
-}
-
-.flex-wrap {
+.ubisoft {
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
+
+.card-flex{
+    display: flex;
+}
+
+.card-flex-1 {
+    margin-right: 50px;
+    border-style: solid;
+    border-color: rgba(19, 66, 19, 0.798);
+    border-radius: 5px;
+    line-height: 25px;
+    margin-bottom: 10px;
+}
+
+.pad {
+padding-left: 10px;
+}
+
+.greenify {
+    color: white;
+    background:#0c5239;
+    width: 300px;
+    padding: 5px 20px 5px 100px;
+    margin: 0px;
+    height: 40px;
+
+}
+
+.fox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fox-1 {
+    margin-right: 50px;
+}
+.jod {
+    display: flex;
+}
+
+.jod-1 {
+    margin-right: 30px;
+}
+
+.portfolio {
+    line-height: 28px;
+}
+
+.portfolio h2 {
+    color: rgb(75, 74, 74);
+    font-weight: bolder;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.phone {
+    width: 300px;
+    height: 600px;
+    background: white;
+    border: 10px solid black;
+    border-radius: 40px;
+    position: relative;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+
+
+
+
+
 
