@@ -61,6 +61,11 @@ header .main-menu {
     
 }
 
+.main-menu a {
+    text-decoration: none;
+    color: black;
+}
+
 .main-menu .second {
     align-items: center;
     align-items: center;
@@ -72,6 +77,10 @@ header .main-menu {
 
 .main-menu li {
     list-style: none;
+}
+
+.main-menu :hover {
+    cursor: pointer;
 }
 
 .main-menu .first {
@@ -99,7 +108,7 @@ margin-right: 30px;
     padding: 5px 7px ;
 }
 
-section {
+.sect-1 {
     margin-left:20px;
     margin-top: 30px;
 }
@@ -114,7 +123,7 @@ section .greenout {
     padding: 2px 8px ;
 }
 
- .large {
+.large {
     margin-top: 10px;
     font-size: 50px;
     max-width: 520px;
@@ -122,11 +131,11 @@ section .greenout {
     color: rgb(36, 35, 35);
 }
 
- .green {
+.green {
     color: rgb(21, 184, 8);
 }
 
- .part-3 {
+.part-3 {
     margin-top: 20px;
     color: rgb(80, 74, 74);
     font-size: 18px;
@@ -214,19 +223,45 @@ align-items: center;
 
 
 .ned {
-    width: 10px;
+    width: 15px;
     margin-right: 2px;
     border-radius: 6px;
 
+}
+
+.mright {
+    margin-right: 10px;
+}
+
+.tbh {
+    display: flex;
+}
+
+.web-site {
+    margin-left: 6px;
+}
+
+.share {
+    margin-right: 50px;
+    padding: 3px;
+    background: rgb(203, 199, 199);
+    border-radius: 4px;
 }
 
 .ubisoft {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 70px;
+    height: 150px;
+    background: rgb(234, 230, 230);
 }
 
-.card-flex{
+.card-ubisoft {
+    display: flex;
+}
+
+.card-flex {
     display: flex;
 }
 
@@ -257,10 +292,11 @@ padding-left: 10px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 50px;
 }
 
 .fox-1 {
-    margin-right: 50px;
+    margin-right: 10px;
 }
 .jod {
     display: flex;
@@ -272,13 +308,27 @@ padding-left: 10px;
 
 .portfolio {
     line-height: 28px;
+    margin-bottom: 20px;
+    font-size: 17px;
 }
 
 .portfolio h2 {
     color: rgb(75, 74, 74);
     font-weight: bolder;
     font-size: 30px;
-    margin-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+.portfolio h3 {
+    margin: 10px 0;
+}
+
+.portfolio .margin-bottom {
+    margin-bottom: 30px;
+}
+
+.jdm-top {
+    margin-bottom:15px;
 }
 
 .phone {
@@ -289,7 +339,109 @@ padding-left: 10px;
     border-radius: 40px;
     position: relative;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin:0  80px;
+
 }
+
+.notch {
+    width: 120px;
+    height: 30px;
+    background: black;
+    border-radius: 0 0 20px 20px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.screen-content {
+ padding: 50px 20px 20px 20px;
+}
+
+.job {
+ margin-bottom: 20px;
+ display: flex;
+}
+
+.job h3 {
+    margin: 0;
+    font-size: 16px;
+    color: #333;
+    }
+
+.job p {
+    margin: 5px 0 0;
+    font-size: 14px;
+    color: #777;
+}
+
+.job .remote{
+    width: 10px;
+}
+
+.job .git-lab-1{
+    width: 30px;
+    height:30px;
+}
+
+.white-div {
+    color: rgb(12, 12, 12);
+    width:300px;
+    height: 400px;
+}
+
+.bold-bold {
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 5px;
+}
+
+.phone-form 
+{
+    display: flex;
+
+}
+
+.fom {
+    display: block;
+    margin: 8px;
+}
+
+form input{
+width: 660px;
+border-radius: 5px;
+height: 40px;
+padding: 10px;
+}
+
+.subscribe {
+    display: block;
+    color: white;
+    background: #0c5239;
+    margin-top: 15px;
+    padding: 4px 300px;
+    border-radius: 8px;
+    height: 40px;
+}
+
+.page-end {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(37, 35, 35);
+    color: white;
+    height: 200px;
+    margin-left: 0px;
+}
+
+.bild {
+    font-size: 18px;
+    margin-bottom:5px;
+}
+
+
+
+
 
 
 
