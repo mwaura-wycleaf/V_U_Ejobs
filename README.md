@@ -145,17 +145,4 @@ Wycliff
 
 This project is for educational purposes only.
 
-I’ve created a clean, professional README for your VueJobs clone in the canvas.
 
-If you want, I can customize it further based on:
-
-Your exact folder names (like card-flex, portfolio, etc.)
-
-Screenshots
-
-GitHub repo link
-
-Or even make it more “portfolio-ready” for employers
-
-
-Just tell me 👍
