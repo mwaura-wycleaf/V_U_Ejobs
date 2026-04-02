@@ -33,7 +33,6 @@ HTML5
 
 CSS3
 
-JavaScript (Vanilla JS)
 
 
 
@@ -45,7 +44,6 @@ project-folder/
 │
 ├── index.html        # Main landing page
 ├── style.css         # Styling file
-├── script.js         # JavaScript functionality
 ├── images/           # Job/company images
 └── README.md         # Project documentation
 
