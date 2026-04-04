@@ -2,7 +2,7 @@ VueJobs Clone (Frontend Project)
 
 📌 Overview
 
-This project is a frontend clone of a job listing website inspired by VueJobs. It was built to practice HTML, CSS, and JavaScript fundamentals, focusing on creating interactive UI components such as clickable job cards and detailed job views.
+This project is a frontend clone of a job listing website inspired by VueJobs. It was built to practice HTML, CSS, and focusing on creating interactive UI components such as clickable job cards and detailed job views.
 
 > ⚠️ Note: The project was not fully completed due to a change in the original site structure. Future updates and improvements may be added.
 
