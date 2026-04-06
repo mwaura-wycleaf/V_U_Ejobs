@@ -15,8 +15,6 @@ This project is a frontend clone of a job listing website inspired by VueJobs. I
 
 Responsive job listing layout
 
-Clickable job cards
-
 Dynamic display of job details
 
 Clean and structured UI design
