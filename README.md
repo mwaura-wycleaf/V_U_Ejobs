@@ -1,4 +1,4 @@
-VueJobs Clone (Frontend Project)
+VueJobs Clone
 
 📌 Overview
 
