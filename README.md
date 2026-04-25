@@ -75,10 +75,6 @@ project-folder/
 
 🧠 What I Learned
 
-DOM manipulation using JavaScript
-
-Handling click events
-
 Structuring reusable UI components
 
 Building responsive layouts with CSS
