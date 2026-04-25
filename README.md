@@ -48,31 +48,6 @@ project-folder/
 
 ---
 
-⚙️ How It Works
-
-1. Job cards are displayed on the homepage.
-
-
-2. Each card is clickable.
-
-
-3. Clicking a card reveals detailed job information.
-
-
-4. JavaScript handles dynamic content switching without reloading the page.
-
-
-
-
----
-
-📸 Screenshots
-
-(Add screenshots here if needed)
-
-
----
-
 🧠 What I Learned
 
 Structuring reusable UI components
