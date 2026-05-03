@@ -38,8 +38,6 @@ CSS3
 
 📂 Project Structure
 
-project-folder/
-│
 ├── index.html        # Main landing page
 ├── style.css         # Styling file
 ├── images/           # Job/company images
