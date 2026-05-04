@@ -92,7 +92,7 @@ git clone <your-repo-link>
 2. Open the project folder.
 
 
-3. Run index.html in your browser.
+3. Run the index.html file in your browser.
 
 
 
